@@ -10,7 +10,7 @@ This is a simple Headphones Store written in Java
 - Android SDK 24-33
 
 
-## Lessons Learned
+# Lessons Learned
 
 In this project I learned how to use:
 - Fragments
@@ -19,11 +19,11 @@ In this project I learned how to use:
 - Drawer Navigation
 
 
-## Screenshots
+# Screenshots
 
 <img src="https://raw.githubusercontent.com/Fraine-Maroua/E-commerce_Headphones_Store/master/s1.png" alt="Splash Screen" width="98" height="200" /> <img src="https://raw.githubusercontent.com/Fraine-Maroua/E-commerce_Headphones_Store/master/s2.png" alt="Splash Screen" width="98" height="200" /> <img src="https://raw.githubusercontent.com/Fraine-Maroua/E-commerce_Headphones_Store/master/s3.png" alt="Splash Screen" width="98" height="200" /> <img src="https://raw.githubusercontent.com/Fraine-Maroua/E-commerce_Headphones_Store/master/s4.png" alt="Splash Screen" width="98" height="200" />
 
 
-## Feedback
+# Feedback
 
 If you have any feedback, please reach out to us at marouafraine169@gmail.com
