@@ -16,7 +16,6 @@ In this project I learned how to use:
 - Fragments
 - Bottom Navigation
 - RecylerView
-- Drawer Navigation
 
 
 # Screenshots
